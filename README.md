@@ -58,6 +58,12 @@ The CDC provides extensive data on COVID, including 7-day rolling averages on ca
 
 
 
+Speaking of vaccination data, Our World in Data provides daily vaccination data by country.  Here are two dashboard snapshots for the U.S. and Scotland, showing stacked area charts with daily data on those people that have received one shot and another population that has been injected twice.
+
+<img src=".\images\us-shots2.jpg"  alt="us-shots2" /><img src=".\images\scot-shots2.jpg"  alt="scot-shots2" />
+
+
+
 The CDC also gathers forecast data for both cases and deaths from a number of different research organization.  Using filtering, I have put together interactive dashboards for each category, offering looks at projections from the different outfits by state.  Here are screenshots.
 
 <img src=".\images\death-forecast2.jpg"  alt="death-forecast2" /><img src=".\images\case-forecast2.jpg"  alt="case-forecast2" />
