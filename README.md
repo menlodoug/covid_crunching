@@ -32,13 +32,25 @@ The L.A. Times Github repository provides daily insight into California-related 
 
 <img src=".\images\race-ethnicity.jpg"  alt="race-ethnicity" /><img src=".\images\nursing2.jpg"  alt="nursing2" />
 
+The COVID Tracking Project keeps track of testing throughout the country, by state.  I adjusted their pandas notebook to give me a look at national and California-specific testing data on a daily basis (https://github.com/menlodoug/covid_crunching/blob/main/pandas/Covid_Tests.ipynb).
+
+<img src=".\images\testing-data2.jpg"  alt="testing-data2" /><img src=".\images\testing-data-ca2.jpg"  alt="testing-data-ca2" />
+
 Here are a couple of demographic resources I have tapped.  The Surgo Foundation has developed the CCVI or COVID-19 Vulnerability Index.  In the U.S., people living in vulnerable communities are significantly more likely to have died from COVID-19 as low vulnerability communities are burdened because people do not have equitable access to **health care, affordable housing, transportation, childcare**, **or safe and secure employment**.  The Index originally had six elements to it, but as the understanding of the virus has increased, they tweaked their model in December adding an additional element.  I have constructed a detailed, interactive dashboard incorporating their data at the state and county level.
 
 The APM Research Lab has compiled data on the state death rates of  various racial groups.  Here is an interactive chart I have put together showing that data by state.
 
 <img src=".\images\CCVI2.jpg"  alt="CCVI2" /><img src=".\images\color2.jpg"  alt="color2" />
 
-Another population that has been severely impacted by the pandemic are those imprisoned.  UCLA Law has conducted a study tracking infections and deaths in the country.  Here's a screenshot of an interactive dashboard that shows the data by facility, by state, and by magnitude of impact.
+The CDC provides extensive data on COVID, including 7-day rolling averages on cases and deaths and positivity rates for 7-day, 30-day, and the entire duration of the pandemic.  I have utilized the parameter feature in Tableau to offer different views.  They also recently started providing vaccination data, offering an opportunity for another dashboard.
+
+<img src=".\images\7day-case2.jpg"  alt="7day-case2" /><img src=".\images\7day-death2.jpg"  alt="7day-death2" /><img src=".\images\positivity2.jpg"  alt="positivity2" /><img src=".\images\vaccines2.jpg"  alt="vaccines2" />
+
+The CDC also gathers forecast data for both cases and deaths from a number of different research organization.  Using filtering, I have put together interactive dashboards for each category, offering looks at projections from the different outfits by state.  Here are screenshots.
+
+<img src=".\images\death-forecast2.jpg"  alt="death-forecast2" /><img src=".\images\case-forecast2.jpg"  alt="case-forecast2" />
+
+A population that has been severely impacted by the pandemic are those imprisoned.  UCLA Law has conducted a study tracking infections and deaths in the country.  Here's a screenshot of an interactive dashboard that shows the data by facility, by state, and by magnitude of impact
 
 Public mobility has been significantly affected by the pandemic as social distancing has kept people from their normal routines and at home.  Three companies tracking mobility are Google, Apple, and Descartes Labs.  Here are screenshots from the dashboards I constructed for each.
 
