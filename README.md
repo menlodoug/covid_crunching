@@ -50,9 +50,9 @@ The CDC also gathers forecast data for both cases and deaths from a number of di
 
 <img src=".\images\death-forecast2.jpg"  alt="death-forecast2" /><img src=".\images\case-forecast2.jpg"  alt="case-forecast2" />
 
-A population that has been severely impacted by the pandemic are those imprisoned.  UCLA Law has conducted a study tracking infections and deaths in the country.  Here's a screenshot of an interactive dashboard that shows the data by facility, by state, and by magnitude of impact
+A population that has been severely impacted by the pandemic are those people imprisoned.  UCLA Law has conducted a study tracking infections and deaths in the country.  Here's a screenshot of an interactive dashboard that shows the data by facility, by state, and by magnitude of impact
 
-Public mobility has been significantly affected by the pandemic as social distancing has kept people from their normal routines and at home.  Three companies tracking mobility are Google, Apple, and Descartes Labs.  Here are screenshots from the dashboards I constructed for each.
+Public mobility has been significantly affected by the pandemic as social distancing has kept people at home and away from their normal routines.  Three companies tracking mobility are Google, Apple, and Descartes Labs.  Here are screenshots from the dashboards I constructed for each.
 
 <img src=".\images\prison2.jpg"  alt="prison2" /><img src=".\images\google2.jpg"  alt="google2" /><img src=".\images\apple-mobility2.jpg"  alt="apple-mobility" /><img src=".\images\descartes2.jpg"  alt="descartes2" />
 
