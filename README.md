@@ -78,6 +78,12 @@ Public mobility has been significantly affected by the pandemic as social distan
 
 
 
+Public Health Scotland provides daily data on the COVID statistics for that country.  Here are a couple of dashboards from that data.
+
+<img src=".\images\scotland-cases-deaths2.jpg"  alt="scotland-cases-deaths2" /><img src=".\images\scotland-age-gender2.jpg"  alt="scotland-age-gender2" />
+
+
+
 I conclude the Tableau story by including a cute, short animation from Stanford Medicine.
 
 <img src=".\images\prevent2.jpg"  alt="prevent2" />
