@@ -38,7 +38,7 @@ The L.A. Times Github repository provides daily insight into California-related 
 
 
 
-The COVID Tracking Project keeps track of testing throughout the country, by state.  I adjusted their pandas notebook to give me a look at national and California-specific testing data on a daily basis (https://github.com/menlodoug/covid_crunching/blob/main/pandas/Covid_Tests.ipynb).
+The COVID Tracking Project kept track of testing throughout the country, by state, through 3/7/21, when they ceased operating.  I adjusted their pandas notebook to give me a look at national and California-specific testing data on a daily basis (https://github.com/menlodoug/covid_crunching/blob/main/pandas/Covid_Tests.ipynb).  Post-3/7/21, daily testing data is available through the Department of HHS at https://healthdata.gov/dataset/COVID-19-Diagnostic-Laboratory-Testing-PCR-Testing/j8mb-icvb and I have adjusted by Tableau workbook to incorporate their data.
 
 <img src=".\images\testing-data2.jpg"  alt="testing-data2" /><img src=".\images\testing-data-ca2.jpg"  alt="testing-data-ca2" />
 
